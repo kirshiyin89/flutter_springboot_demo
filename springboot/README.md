@@ -1,6 +1,6 @@
 # ServerChecker
 
-This is a spring boot application which provides data to the Flutter UI.
+This is a spring boot application which provides data to the [Flutter UI](https://github.com/kirshiyin89/flutter_springboot_demo/tree/master/flutter).
 
 # How to start this project
 
