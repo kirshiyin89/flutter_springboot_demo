@@ -1,5 +1,5 @@
 
-# StatusApp
+# Flutter and SpringBoot demo
 
 This projects displays server status information in dynamic Grid Cards. The server data is retrieved from [Spring Boot](https://github.com/kirshiyin89/flutter_springboot_demo/tree/master/springboot) backend.
 
