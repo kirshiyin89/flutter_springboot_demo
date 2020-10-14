@@ -5,6 +5,7 @@ This project is a demo for my technical article on Medium: https://medium.com/be
 
 1. Clone this project
 2. Import project into your IDE.
+
    2.1. To enable web platform run in terminal:
       * flutter channel beta
       * flutter config --enable-web
